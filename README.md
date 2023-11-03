@@ -1,7 +1,7 @@
 # Boids-algorithm
 
 ## Disclaimer
-This was my first ever programming project, as part of my numerical physics course. Having just 4 months of experience in python there is plenty of room for improvements. 
+This was my first ever programming project, part of my numerical physics course. Having just 4 months of experience in python there is plenty of room for improvements. 
 
 ## Boids simulation
 In 1986 Craig Reynolds published the paper "Flocks, Herds, and Schools: A Distributed Behavioral Model", in which he explored how simple rules applied to individuals could lead to the
