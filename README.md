@@ -1,6 +1,5 @@
 # Boids-algorithm
 
-## Disclaimer
 This was my first ever programming project, part of my numerical physics course. Having just 4 months of experience in python there is plenty of room for improvements. 
 
 ## Boids simulation
