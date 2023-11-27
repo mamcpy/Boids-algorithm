@@ -17,5 +17,9 @@ how different parameters affect the dynamics of the system.
 ## Improvements
 This was my first ever programming project, part of my numerical physics course. Having just 4 months of experience in python there is plenty of room for improvements. 
 
--
--
+- Implement it in fixed point instead to considerably increase performance and cut computational costs the program.
+- Extend to 3D simulation following the same theoretical principles and approach followed in the 2D simulation.
+- Use sliders to change the parameters in real time (with ipywidgets).
+- Include a boid predator that follows the boids and makes boids disappear as it touches them. This predator would have a different radius than those set for the boids and
+would move at a higher speed. It would be interesting to see if the flocking behaviour prolong their survival time and what parameters do it best.
+- Give the simulation a more realistic touch: obstacles that boids have to avoid, food that they go after, allow collisions between boids and change the constant speed for speed that could range within an interval.
