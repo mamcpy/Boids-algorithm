@@ -12,7 +12,7 @@ The aim of this project is to build a boids simulation from scratch in python. T
 how different parameters affect the dynamics of the system.
 
 
-![Example of the simulation for N = 10 000 boids](simulation_N_1000.gif)
+![Example of the simulation for N = 10 000 boids](./simulation_N_1000.gif)
 
 ## Improvements
 This was my first ever programming project, part of my numerical physics course. Having just 4 months of experience in python there is plenty of room for improvements. 
